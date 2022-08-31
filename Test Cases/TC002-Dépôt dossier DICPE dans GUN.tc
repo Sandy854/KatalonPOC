@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Dépôt dossier DICPE dans GUN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a77d8988-7935-4d46-ad16-38210bf5d263</testCaseGuid>
+   <variable>
+      <defaultValue>'KTLs-DCPIE-001'</defaultValue>
+      <description></description>
+      <id>e48843d1-132c-4b9e-b149-5fe8e8048dd8</id>
+      <masked>false</masked>
+      <name>nom_projet</name>
+   </variable>
+   <variable>
+      <defaultValue>'SNDs-DCPIE-CESS001'</defaultValue>
+      <description></description>
+      <id>c1ae53f9-4996-4389-8f5a-2455f0dfec51</id>
+      <masked>false</masked>
+      <name>numero_teledemarche</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022-08-29T14:38:00'</defaultValue>
+      <description></description>
+      <id>a93b506a-294b-4732-8b88-d9b41e3b32f3</id>
+      <masked>false</masked>
+      <name>date_validation</name>
+   </variable>
+</TestCaseEntity>

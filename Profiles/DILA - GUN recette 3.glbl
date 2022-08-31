@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>DILA - GUN recette 3</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gun-env.rct01.kleegroup.com/v6/gun-s3ic-wso2/api'</initValue>
+      <name>serverHost</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jf6PeIGKmKmRDUR7HLjo8zntdwka'</initValue>
+      <name>client_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cfP4gFUP010C3cfuiKOyIEAjMm8a'</initValue>
+      <name>client_secret</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>response_body</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gun-env.rct01.kleegroup.com/v6/gun-s3ic/'</initValue>
+      <name>ihm_gun_recette</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6_adminNational@gun-rec.fr\r\n'</initValue>
+      <name>utilisateur</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6_adminNational@gun-rec.fr\r\n'</initValue>
+      <name>mot_de_passe</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
