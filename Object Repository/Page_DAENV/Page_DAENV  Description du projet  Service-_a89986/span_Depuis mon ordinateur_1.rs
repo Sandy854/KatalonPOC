@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Depuis mon ordinateur_1</name>
+   <tag></tag>
+   <elementGuidId>cb8dd4a0-fd27-448e-a873-7b7dca15e7d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#depuisOrdiPiecesJointes_descriptionProjet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='depuisOrdiPiecesJointes_descriptionProjet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ace8cef-a6ef-4c91-93c4-732dc527e180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>depuisOrdiPiecesJointes_descriptionProjet</value>
+      <webElementGuid>73d80df0-2bb2-407f-b9ea-aa0800ff00b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Depuis mon ordinateur</value>
+      <webElementGuid>cfb2d433-da6b-4081-9199-b5b3ed223804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;depuisOrdiPiecesJointes_descriptionProjet&quot;)</value>
+      <webElementGuid>a53e51ce-3118-4d86-b585-abbddc77a1de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='depuisOrdiPiecesJointes_descriptionProjet']</value>
+      <webElementGuid>27cb3fbd-32f7-457c-9e15-088228197076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadBolc_PiecesJointes_descriptionProjet']/div/button/span</value>
+      <webElementGuid>5eb108d5-ad4c-42cc-a013-8535eae83501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aide sur la saisie de la pièce jointe. Fichier décrivant le projet.'])[1]/following::span[1]</value>
+      <webElementGuid>9bcd17c3-479c-404f-b5ca-aa78966a35e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter un fichier :'])[1]/following::span[3]</value>
+      <webElementGuid>78a9476f-451b-4014-957a-c374221381f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pdf'])[1]/preceding::span[2]</value>
+      <webElementGuid>c3014161-82d7-4625-b81f-22dbcc3b4d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Depuis mon ordinateur']/parent::*</value>
+      <webElementGuid>633acc01-2185-4705-92ed-cbf06b1ccba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>ec8d64e3-cd56-4b62-bacb-5bf71c438545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'depuisOrdiPiecesJointes_descriptionProjet' and (text() = '
+										Depuis mon ordinateur' or . = '
+										Depuis mon ordinateur')]</value>
+      <webElementGuid>9902df2d-2957-460f-83b9-d89a489bfb2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

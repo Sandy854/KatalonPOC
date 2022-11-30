@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Depuis mon ordinateur</name>
+   <tag></tag>
+   <elementGuidId>59b4fca3-b095-4c01-ac09-144a1c0ad44e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#depuisOrdiPiecesJointes_descriptionProjetNonTechnique</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='depuisOrdiPiecesJointes_descriptionProjetNonTechnique']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1b8c01c-de1d-400e-b76e-45f1d32db03a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>depuisOrdiPiecesJointes_descriptionProjetNonTechnique</value>
+      <webElementGuid>d43bb73e-8714-4b1d-b757-1e44307a081d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Depuis mon ordinateur</value>
+      <webElementGuid>6e818491-eaee-4443-a6d4-b5094d45b865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;depuisOrdiPiecesJointes_descriptionProjetNonTechnique&quot;)</value>
+      <webElementGuid>a0acecfa-acdc-4411-84be-fee1980f9aca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='depuisOrdiPiecesJointes_descriptionProjetNonTechnique']</value>
+      <webElementGuid>34d2f3a0-2d79-470b-8207-47000145983e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadBolc_PiecesJointes_descriptionProjetNonTechnique']/div/button/span</value>
+      <webElementGuid>9cc6a71d-309d-46c7-bd9f-b598580f1767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter un fichier :'])[2]/following::span[3]</value>
+      <webElementGuid>cfcfda68-0656-4f0c-b649-0995f4b9c32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler'])[2]/following::span[4]</value>
+      <webElementGuid>6674f4d9-42f1-418d-b550-d52d5c48df33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pdf'])[2]/preceding::span[2]</value>
+      <webElementGuid>c4529edc-6e73-4b81-905f-817352b2cb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>d1e38ad8-ccb6-42b4-8998-cd467a3edb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'depuisOrdiPiecesJointes_descriptionProjetNonTechnique' and (text() = '
+										Depuis mon ordinateur' or . = '
+										Depuis mon ordinateur')]</value>
+      <webElementGuid>9bc00779-f6a8-4ed8-9e52-0c86c8c3cd1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

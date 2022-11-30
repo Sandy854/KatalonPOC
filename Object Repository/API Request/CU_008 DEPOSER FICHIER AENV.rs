@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>CU_008 DEPOSER FICHIER</name>
+   <name>CU_008 DEPOSER FICHIER AENV</name>
    <tag></tag>
-   <elementGuidId>eebfe749-8e14-4668-b867-dc6dc0cb42ed</elementGuidId>
+   <elementGuidId>95c02b1f-ff6c-40cc-bf73-90086e2a05cf</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>
@@ -27,7 +27,7 @@
     },
     {
       &quot;name&quot;: &quot;fichier&quot;,
-      &quot;value&quot;: &quot;C:\\MTE\\DescriptionProjet.pdf&quot;,
+      &quot;value&quot;: &quot;${urlFile}&quot;,
       &quot;type&quot;: &quot;File&quot;,
       &quot;contentType&quot;: &quot;multipart/form-data&quot;
     }
@@ -40,6 +40,7 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>multipart/form-data</value>
+      <webElementGuid>6b520781-68dc-496b-bfd8-7f0bc28ce6d6</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -47,6 +48,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Bearer ${token}</value>
+      <webElementGuid>c0146f3d-5e2e-4a2d-a2e3-74b287903c95</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>7.8.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
@@ -82,6 +84,13 @@
       <masked>false</masked>
       <name>metadata_body</name>
    </variables>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f43f5a6a-3f0c-47b9-8684-73769cf14bb1</id>
+      <masked>false</masked>
+      <name>urlFile</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
@@ -95,6 +104,12 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
+
+
+WS.verifyResponseStatusCode(response, 200)
+
+assertThat(response.getStatusCode()).isEqualTo(200)
+
 </verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

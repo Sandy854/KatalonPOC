@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Affectation Teleprocedure AENV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>332c97fe-8f7c-45d9-8eb0-3a0ddc7c5c80</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d973015-5145-4665-a5a7-8e3d062859b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3431afd6-8bd7-4db6-8605-ca8b146f148d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58b94d8f-940b-4487-b894-de0b4fde27ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33200a7c-c639-4971-8a17-aae0b12c5c8e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cef148db-208e-4ba3-ad39-50775a02841c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'V703-TNR-AENV-001'</defaultValue>
+      <description></description>
+      <id>9d973015-5145-4665-a5a7-8e3d062859b8</id>
+      <masked>false</masked>
+      <name>nom_teleprocedure</name>
+   </variable>
+   <variable>
+      <defaultValue>'0100008327'</defaultValue>
+      <description></description>
+      <id>3431afd6-8bd7-4db6-8605-ca8b146f148d</id>
+      <masked>false</masked>
+      <name>numero_aiot</name>
+   </variable>
+   <variable>
+      <defaultValue>'DDT 31'</defaultValue>
+      <description></description>
+      <id>58b94d8f-940b-4487-b894-de0b4fde27ad</id>
+      <masked>false</masked>
+      <name>service</name>
+   </variable>
+   <variable>
+      <defaultValue>'SEEF'</defaultValue>
+      <description></description>
+      <id>33200a7c-c639-4971-8a17-aae0b12c5c8e</id>
+      <masked>false</masked>
+      <name>sous_service</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unité des procédures environnementales'</defaultValue>
+      <description></description>
+      <id>cef148db-208e-4ba3-ad39-50775a02841c</id>
+      <masked>false</masked>
+      <name>equipe</name>
+   </variable>
+</TestCaseEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>CU_006 DEPOSER DOSSIER</name>
+   <name>CU_006 DEPOSER DOSSIER DICPE</name>
    <tag></tag>
    <elementGuidId>064bc14a-dcaa-4707-96ae-220755cae993</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +21,7 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
+      <webElementGuid>080461c6-d37f-4bd3-bac6-015c44ca900c</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -28,6 +29,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Bearer ${token}</value>
+      <webElementGuid>92491d5c-a6f0-4768-b77b-a7b78a64ef6f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>7.8.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>

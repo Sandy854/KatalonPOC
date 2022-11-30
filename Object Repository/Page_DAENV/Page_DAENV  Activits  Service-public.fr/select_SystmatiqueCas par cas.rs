@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SystmatiqueCas par cas</name>
+   <tag></tag>
+   <elementGuidId>a36cac4b-9c43-4942-b455-0d2bedc3645b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.selectRegimeEE.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='tbodyRubriqueNomenclaturesEE']/tr[2]/td/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a6bdeab6-4fff-44ab-af10-0e1f903f864b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectRegimeEE form-control</value>
+      <webElementGuid>bef5b2b9-490e-452b-a784-cdb65828e05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>regimeEE</value>
+      <webElementGuid>26a5e54c-2620-4994-852c-9f95ed4e1532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SystématiqueCas par cas</value>
+      <webElementGuid>fb48a693-b1be-48e1-a948-6cd444125723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbodyRubriqueNomenclaturesEE&quot;)/tr[@class=&quot;ligneTabActive actif&quot;]/td[@class=&quot;regimeEE&quot;]/select[@class=&quot;selectRegimeEE form-control&quot;]</value>
+      <webElementGuid>de6624ba-b067-4557-892f-c7437ca825b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='tbodyRubriqueNomenclaturesEE']/tr[2]/td/select</value>
+      <webElementGuid>20892070-e230-40b7-9a4b-53e566833b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* N° de catégorie et de sous-catégorie'])[1]/following::select[1]</value>
+      <webElementGuid>78264a57-0f87-4cd8-9619-d406865eb65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Régime'])[1]/following::select[1]</value>
+      <webElementGuid>6ec59de4-85bb-48a5-8d71-bbfc2a9581db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effacer la ligne'])[1]/preceding::select[2]</value>
+      <webElementGuid>7a9a6272-fec4-4c80-be08-3c2a65a549fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider la ligne'])[1]/preceding::select[2]</value>
+      <webElementGuid>78f6c83e-9d19-4414-9f98-8f07c3e2a0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>591d522e-8819-4f73-926b-13025fe574ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'SystématiqueCas par cas' or . = 'SystématiqueCas par cas')]</value>
+      <webElementGuid>5a32bed3-2705-455d-b1c6-9bea6456045b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Depuis mon ordinateur</name>
+   <tag></tag>
+   <elementGuidId>5b1b97b6-6f62-42ff-bdc3-ebec2b1d839e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#depuisOrdiPiecesJointes_fichierPlan25000ou50000</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='depuisOrdiPiecesJointes_fichierPlan25000ou50000']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27ac4894-7447-4dc4-8972-447f4ab1ca94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>depuisOrdiPiecesJointes_fichierPlan25000ou50000</value>
+      <webElementGuid>eb930982-088b-48d7-9ad9-490ed03cabe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Depuis mon ordinateur</value>
+      <webElementGuid>a49d434a-d4e3-4e57-b53e-229b7ab28948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;depuisOrdiPiecesJointes_fichierPlan25000ou50000&quot;)</value>
+      <webElementGuid>b3096f60-c537-4371-815e-1d63e5456398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='depuisOrdiPiecesJointes_fichierPlan25000ou50000']</value>
+      <webElementGuid>388bb1e6-1e45-41e3-9359-232720ff6cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadBolc_PiecesJointes_fichierPlan25000ou50000']/div/button/span</value>
+      <webElementGuid>d855ff45-691a-41b6-b5db-7e9c812c0545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter un fichier :'])[1]/following::span[3]</value>
+      <webElementGuid>247d0a73-24ff-4e6e-b290-0b16e3a9c9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler'])[1]/following::span[4]</value>
+      <webElementGuid>4fc971da-a1d3-48c9-84b5-5d65046b7b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pdf, zip, jpg, jpeg, png'])[1]/preceding::span[2]</value>
+      <webElementGuid>bdb6a267-4d68-447f-8dc1-a272060c03a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Depuis mon ordinateur']/parent::*</value>
+      <webElementGuid>96906875-1d4a-4074-914a-404c72e7604b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>520625bd-d7bb-4a73-8e32-dc9dd64efe48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'depuisOrdiPiecesJointes_fichierPlan25000ou50000' and (text() = '
+										Depuis mon ordinateur' or . = '
+										Depuis mon ordinateur')]</value>
+      <webElementGuid>934bd097-2416-4a58-9364-9187996e4932</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

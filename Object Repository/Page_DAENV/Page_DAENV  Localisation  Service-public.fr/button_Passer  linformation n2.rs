@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Passer  linformation n2</name>
+   <tag></tag>
+   <elementGuidId>4a73f695-2ebf-4a36-9fd8-f4fedc7d4dcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnGotoNextStep > button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbd1f8c0-b9da-49f6-9a25-4241aa9f51ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6aa7c912-feb4-4793-86bc-2b070bb963ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>8d668dc7-5031-4fc1-9ae4-ee9089bef965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passer à l'information n°2 ></value>
+      <webElementGuid>fb679c30-fc0a-4e48-b1c2-00b1293d2d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnGotoNextStep&quot;)/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>5fc78c90-8fcf-41e2-9814-eae255c8e18f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>9ea251ca-4215-4ff2-bedc-2d6e42978d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btnGotoNextStep']/button</value>
+      <webElementGuid>7382d86b-1511-471d-9ce1-c75cbc34564e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider'])[1]/following::button[1]</value>
+      <webElementGuid>806367b8-d1ec-426b-8374-353b6f6401ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler'])[2]/following::button[2]</value>
+      <webElementGuid>3947df4f-32c3-457a-875f-0b401d16e785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('&lt; Revenir à l', &quot;'&quot;, 'information n°1')])[1]/preceding::button[1]</value>
+      <webElementGuid>02ae9186-061d-474f-a078-6e1efaddd091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information n°2 : Précision des RÉFÉRENCES GÉOGRAPHIQUES du projet'])[1]/preceding::button[2]</value>
+      <webElementGuid>1d33eba6-7e40-48cd-86cc-fa079dc62264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/button</value>
+      <webElementGuid>3a9642ee-137d-4bfc-bcb4-183853cfa208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = concat(&quot;Passer à l&quot; , &quot;'&quot; , &quot;information n°2 >&quot;) or . = concat(&quot;Passer à l&quot; , &quot;'&quot; , &quot;information n°2 >&quot;))]</value>
+      <webElementGuid>890b6bff-36ba-4148-9d54-91aafa23eded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

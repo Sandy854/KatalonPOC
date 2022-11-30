@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Terrestre</name>
+   <tag></tag>
+   <elementGuidId>de221509-706c-4ddb-ad3a-34b999f931fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lbl_checkboxTypeProjet0 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='lbl_checkboxTypeProjet0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31552dad-49da-4dfc-b701-4fa32d473a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrestre</value>
+      <webElementGuid>b15e45a9-9d8d-4b27-894a-264755dc7f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lbl_checkboxTypeProjet0&quot;)/span[1]</value>
+      <webElementGuid>3a60e6c0-fef7-4065-b9e2-809ad353cdbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='lbl_checkboxTypeProjet0']/span</value>
+      <webElementGuid>5a1a1b3b-e3a4-4d1a-becb-629b0f063219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre projet est-il ?'])[1]/following::span[1]</value>
+      <webElementGuid>fdd1b9e0-f45f-4380-93e6-15f27083941b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[2]</value>
+      <webElementGuid>d54b7372-8f3d-42a9-ab41-f7feef15b936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maritime ou fluvial'])[1]/preceding::span[2]</value>
+      <webElementGuid>e1ea22b7-62c3-4d2e-a6c4-a307c3dd8176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Géolocalisation du projet (AIOT)'])[1]/preceding::span[4]</value>
+      <webElementGuid>d9d516a6-0bfe-456b-89e5-eb1dcd259e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrestre']/parent::*</value>
+      <webElementGuid>e90395f7-739e-455a-8058-481183c178af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/label/span</value>
+      <webElementGuid>3a69c298-bd9c-485f-95a3-7007f61e7649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Terrestre' or . = 'Terrestre')]</value>
+      <webElementGuid>68846465-9795-4a81-859b-91ad9267b38c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

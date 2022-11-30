@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ajouter une catgorie</name>
+   <tag></tag>
+   <elementGuidId>e62f2a29-47ad-41b8-9ce0-5ecfb5ee2d2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-ajouterRubriqueNomenclaturesEE > span.btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-ajouterRubriqueNomenclaturesEE']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f49dc8a0-838b-4051-8f7c-79dd7c73a4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-text</value>
+      <webElementGuid>4aeb040f-a62f-42f7-a44c-8cbc4dccadae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ajouter une catégorie </value>
+      <webElementGuid>f147b1e2-2846-4cec-9b24-5d1b981ae50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-ajouterRubriqueNomenclaturesEE&quot;)/span[@class=&quot;btn-text&quot;]</value>
+      <webElementGuid>09e2d2cf-d4d7-47fb-981b-9008538b6ec8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn-ajouterRubriqueNomenclaturesEE']/span</value>
+      <webElementGuid>860d93c2-f948-4e85-a19a-4e3bfea48e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* N° de catégorie et de sous-catégorie'])[1]/following::span[1]</value>
+      <webElementGuid>2d9ddc52-4042-4f3f-8fbe-978d267d7809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Régime'])[1]/following::span[1]</value>
+      <webElementGuid>e305eadd-d435-4c4d-8244-23e8e7d91a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Précédent'])[1]/preceding::span[1]</value>
+      <webElementGuid>552c135a-1759-4f05-aced-07d2afc38997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reprendre plus tard'])[1]/preceding::span[2]</value>
+      <webElementGuid>05f1d383-1861-4cdb-943c-3787e553b8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ajouter une catégorie']/parent::*</value>
+      <webElementGuid>c2862b8b-1ff5-4206-87fa-fffd974b20fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/button/span</value>
+      <webElementGuid>638d10c9-f49a-4c8b-8241-302501ba5677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Ajouter une catégorie ' or . = ' Ajouter une catégorie ')]</value>
+      <webElementGuid>e1b4175b-bf55-4093-b107-8edaa439c75a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

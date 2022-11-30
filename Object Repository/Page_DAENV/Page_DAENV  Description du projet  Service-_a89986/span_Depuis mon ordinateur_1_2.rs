@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Depuis mon ordinateur_1_2</name>
+   <tag></tag>
+   <elementGuidId>64365db5-a462-4502-b94b-69868e48f59b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#depuisOrdiPiecesJointes_maitriseFonciere</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='depuisOrdiPiecesJointes_maitriseFonciere']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b23e8320-233a-4ef5-95dd-f9e5ebde7f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>depuisOrdiPiecesJointes_maitriseFonciere</value>
+      <webElementGuid>c89b7d14-4fc2-4ccf-b7e6-230e04f3be94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Depuis mon ordinateur</value>
+      <webElementGuid>c6d11ab1-3363-44f6-972b-63d591727dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;depuisOrdiPiecesJointes_maitriseFonciere&quot;)</value>
+      <webElementGuid>2a4a8ae7-2fe3-41c0-bedc-ee46c2e71905</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='depuisOrdiPiecesJointes_maitriseFonciere']</value>
+      <webElementGuid>3e428c2e-617f-4eb5-911f-73cb2bb178ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadBolc_PiecesJointes_maitriseFonciere']/div/button/span</value>
+      <webElementGuid>b1cfbe0a-61d1-4b54-b7ad-83427e0f34d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aide sur la saisie de la pièce jointe. Fichier de justificatif de maîtrise foncière.'])[1]/following::span[1]</value>
+      <webElementGuid>dff4cb59-8378-4d46-aaff-2d84ccd1a366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter un fichier :'])[4]/following::span[3]</value>
+      <webElementGuid>b6a4b76b-cce7-45b3-9d8b-4a80bf1bb9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pdf'])[4]/preceding::span[2]</value>
+      <webElementGuid>2869bc12-af29-4093-b208-56be5f9448b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>aaccddfe-b1f8-41e7-ae2d-1a46fabd2968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'depuisOrdiPiecesJointes_maitriseFonciere' and (text() = '
+										Depuis mon ordinateur' or . = '
+										Depuis mon ordinateur')]</value>
+      <webElementGuid>da1cdb68-54d5-468e-ba16-760587f4d648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

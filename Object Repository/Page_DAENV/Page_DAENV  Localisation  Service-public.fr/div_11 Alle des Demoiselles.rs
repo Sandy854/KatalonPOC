@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11 Alle des Demoiselles</name>
+   <tag></tag>
+   <elementGuidId>9237caea-998f-4236-acc5-c4a576cd4314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a11y-suggestion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AIOTAddress']/div[2]/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51b0d2b4-a3c9-4c30-8710-f1617507dacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a11y-suggestion</value>
+      <webElementGuid>c91f39cc-2d1e-4c5b-ae79-3a4b0fd61d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b1196926-ed8f-4b3f-9d31-59b00deaceb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f5f7621f-7f82-4fa1-a30a-97f34188f41f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11 Allée des Demoiselles</value>
+      <webElementGuid>960fede8-6fcd-424e-a2ee-e20b17625ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AIOTAddress&quot;)/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-md-6 select-a11y&quot;]/div[@class=&quot;a11y-suggestions&quot;]/div[1]/div[@class=&quot;a11y-suggestion&quot;]</value>
+      <webElementGuid>bcc5d79f-8923-4c6c-be46-68888b49c866</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AIOTAddress']/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>98c267e5-bbad-4f02-862c-57424a8db0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saisie complémentaire requise - affichage automatique'])[2]/following::div[5]</value>
+      <webElementGuid>6ced52be-c7b6-4853-a9aa-3436b1d60ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numéro et voie ou lieu-dit (Exemple : 72 Rue du Douet)'])[1]/following::div[5]</value>
+      <webElementGuid>d300161a-d530-4e65-90d9-251975f99cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Immeuble - bâtiment - résidence'])[1]/preceding::div[1]</value>
+      <webElementGuid>1b2d8509-784b-475a-8503-c333db504649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::div[9]</value>
+      <webElementGuid>462ac04d-0836-4118-91ec-80e03aa9016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11 Allée des Demoiselles']/parent::*</value>
+      <webElementGuid>9e9e99bf-04e8-4f14-9510-e26dea0f7b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>083d2f3e-2d08-42cc-b7fe-80451e07ca64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '11 Allée des Demoiselles' or . = '11 Allée des Demoiselles')]</value>
+      <webElementGuid>faddc73f-015a-494c-837a-20a1a285c04f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-Depot dossier AENV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45d0ef04-7695-4757-8fcd-eccbee19c753</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e58c2fd-5155-4e77-9d9b-54937b18c31b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14148b6c-8175-4901-a5ba-63c10f9f4e54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce0abc15-1c85-42c7-b806-63d28614ddaf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PROJET-ANV-008'</defaultValue>
+      <description></description>
+      <id>0e58c2fd-5155-4e77-9d9b-54937b18c31b</id>
+      <masked>false</masked>
+      <name>nom_projet</name>
+   </variable>
+   <variable>
+      <defaultValue>'PROJET-ANV-008'</defaultValue>
+      <description></description>
+      <id>14148b6c-8175-4901-a5ba-63c10f9f4e54</id>
+      <masked>false</masked>
+      <name>numero_teledemarche</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022-10-13T23:00:00'</defaultValue>
+      <description></description>
+      <id>ce0abc15-1c85-42c7-b806-63d28614ddaf</id>
+      <masked>false</masked>
+      <name>date_validation</name>
+   </variable>
+</TestCaseEntity>

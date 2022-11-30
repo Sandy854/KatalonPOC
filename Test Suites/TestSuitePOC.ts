@@ -25,6 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/DATAPOC</testDataId>
       </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>6e7bc6d9-e0f5-4261-84fa-00a65bc0a867</testDataLinkId>
          <type>DATA_COLUMN</type>

@@ -6,7 +6,7 @@
    <UUID>114a96fe-fa26-43f8-97d3-3c1eb0ccf1f1</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\sandy.ravelomanantso\Katalon Studio\web and api\web and api.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\sandy.ravelomanantso\Katalon Studio\KatalonPOC.git\web and api.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>GENERIC</type>
 </Project>

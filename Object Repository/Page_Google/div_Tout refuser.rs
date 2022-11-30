@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tout refuser</name>
+   <tag></tag>
+   <elementGuidId>08bf31a8-c073-4d81-b26c-9db6c944d039</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.QS5gu.sy4vM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='W0wltc']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dabb37b7-37e7-4afe-8637-39ff0496e216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QS5gu sy4vM</value>
+      <webElementGuid>3359473b-37fb-4898-a03a-8b63b88bb3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>919f8ca7-4824-48f3-9257-c8b4c71ff11f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tout refuser</value>
+      <webElementGuid>7e654b13-755b-48ca-b5e7-73c57ccc1835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;W0wltc&quot;)/div[@class=&quot;QS5gu sy4vM&quot;]</value>
+      <webElementGuid>61d6ba67-8dda-4032-b616-e630ac800724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='W0wltc']/div</value>
+      <webElementGuid>bcc17945-d088-40c1-97c8-3483b1151e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='g.co/privacytools'])[1]/following::div[3]</value>
+      <webElementGuid>6cfcefce-f3ae-4d07-8f57-02f0a65a8bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afficher des annonces personnalisées en fonction de vos paramètres'])[1]/following::div[6]</value>
+      <webElementGuid>ade568f5-08ae-408d-8157-bc6ae74096e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tout accepter'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a1fd485-7f01-433a-a2f0-74fdd7692adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Plus d', &quot;'&quot;, 'options')])[1]/preceding::div[2]</value>
+      <webElementGuid>8f501ae0-76b9-404a-bea5-06763efec4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/div</value>
+      <webElementGuid>3b92abe5-99ba-45b4-99a0-cc4e0f94743b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tout refuser' or . = 'Tout refuser')]</value>
+      <webElementGuid>e98534b2-e6b9-4085-ad5a-e898101a41be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

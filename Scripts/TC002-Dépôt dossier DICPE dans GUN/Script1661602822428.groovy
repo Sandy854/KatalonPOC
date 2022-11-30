@@ -19,7 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.callTestCase(findTestCase('TC001-Générer token'), [:], FailureHandling.STOP_ON_FAILURE)
 
 'Envoi du requête CU006 DEPOSER DOSSIER'
-response = WS.sendRequest(findTestObject('API Request/CU_006 DEPOSER DOSSIER', [('nom_projet') : "$nom_projet", ('numero_teledemarche') : "$numero_teledemarche"
+response = WS.sendRequest(findTestObject('API Request/CU_006 DEPOSER DOSSIER DICPE', [('nom_projet') : "$nom_projet", ('numero_teledemarche') : "$numero_teledemarche"
             , ('date_validation') : "$date_validation"]))
 
 //Afficher dans le log le résultat JSON
@@ -38,11 +38,15 @@ String metadata = ((((((((((((((((((((((('{' + '"identifiantFichier" : "') + jso
 jsonResult.orientationDemande.fichierAccuseReception.dateDepot) + '",') + '"statutFichier" : "0",') + '"etatFichier" : "0",') + 
 '"checkSum" : "') + jsonResult.orientationDemande.fichierAccuseReception.checkSum) + '"') + '}'
 
-response = WS.sendRequest(findTestObject('API Request/CU_008 DEPOSER FICHIER', [('metadata_body') : metadata]))
+String urlFichier = "C:\\MTE\\DescriptionProjet.pdf"
+
+response = WS.sendRequest(findTestObject('API Request/CU_008 DEPOSER FICHIER DICPE', [('metadata_body') : metadata, ('urlFile') : urlFichier]))
 
 System.out.println('REPONSE CU008 : ' + response.getResponseBodyContent())
-
+/*
 'Véfication dans GUN si le dossier est bien remonté'
 WebUI.callTestCase(findTestCase('TC003-Recherche du dossier déposé dans GUN'), [('nom_projet') : jsonResult.orientationDemande.projetNom], 
     FailureHandling.STOP_ON_FAILURE)
+    */
+println("test")
 
