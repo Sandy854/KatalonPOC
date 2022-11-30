@@ -31,4 +31,4 @@ WebUI.click(findTestObject('Page GUN/Login cerbere - page/Bouton se connecter'))
 
 WebUI.click(findTestObject('Page GUN/Generique - page/Bouton cookies'))
 
-//fin
+//fin 
